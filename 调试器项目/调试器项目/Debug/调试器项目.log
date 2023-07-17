@@ -1,0 +1,32 @@
+﻿  CDebug.cpp
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.h(21,2): warning C4091: “typedef ”: 没有声明变量时忽略“MEMORY_POINT”的左侧
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.h(28,2): warning C4091: “typedef ”: 没有声明变量时忽略“PE_Struct”的左侧
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(94,20): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPTHREAD_START_ROUTINE”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(126,20): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(200,43): warning C4244: “参数”: 从“uint64_t”转换到“SIZE_T”，可能丢失数据
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(201,20): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“ATL::CStringA”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(243,20): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(386,41): warning C4477: “sscanf_s”: 格式字符串“%x”需要类型“unsigned int *”的参数，但可变参数 3 拥有了类型“LPVOID *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(403,41): warning C4477: “sscanf_s”: 格式字符串“%x”需要类型“unsigned int *”的参数，但可变参数 3 拥有了类型“LPVOID *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(419,41): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“LPVOID *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(439,41): warning C4477: “sscanf_s”: 格式字符串“%x”需要类型“unsigned int *”的参数，但可变参数 3 拥有了类型“PVOID *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(457,35): warning C4018: “<”: 有符号/无符号不匹配
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(459,28): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“LPVOID”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(470,24): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(519,41): warning C4477: “sscanf_s”: 格式字符串“%x”需要类型“unsigned int *”的参数，但可变参数 3 拥有了类型“PVOID *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(527,41): warning C4477: “sscanf_s”: 格式字符串“%x”需要类型“unsigned int *”的参数，但可变参数 3 拥有了类型“PVOID *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(529,29): warning C4477: “scanf_s”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“BYTE *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(529,29): message : 请考虑在格式字符串中使用“%hhX”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(545,25): warning C4477: “scanf_s”: 格式字符串“%x”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“PVOID *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(1098,24): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“BYTE *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(1164,16): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“DWORD *”
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(1285,23): warning C4018: “<”: 有符号/无符号不匹配
+  ImportAndExport.cpp
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\ImportAndExport.cpp(42,10): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_IMPORT_DESCRIPTOR”
+  main.cpp
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.h(21,2): warning C4091: “typedef ”: 没有声明变量时忽略“MEMORY_POINT”的左侧
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.h(28,2): warning C4091: “typedef ”: 没有声明变量时忽略“PE_Struct”的左侧
+  plug.cpp
+  正在生成代码...
+E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\调试器项目\CDebug.cpp(660): warning C4715: “CDebug::MemoryBreakHandle”: 不是所有的控件路径都返回值
+  调试器项目.vcxproj -> E:\新建文件夹\42_王昊_调试器\调试器项目\调试器项目\Debug\调试器项目.exe
